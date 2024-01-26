@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6s0ipkly4j1bjn3t?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-composition-cards)
 
-https://github.com/Silverscreened19/ra-composition-cards
+https://silverscreened19.github.io/ra-composition-cards/
 
 Карточки
 ===
